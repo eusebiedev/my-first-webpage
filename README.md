@@ -1,4 +1,4 @@
-# _My First Webpage_
+# My First Webpage
 
 #### By _**Eusebie Siebenberg**_
 
@@ -26,8 +26,8 @@ __
 * _No Known Bugs as of 03/16/23_
 
 
-## [MIT] (https://opensource.org/license/mit/)
+## [MIT](https://opensource.org/license/mit/)
 
-_If you have any questions, comments, or concerns, please reach out to me at siebenee@gmail.com. Also, please feel free to add any contributions to our document.
+_If you have any questions, comments, or concerns, please reach out to me at siebenee@gmail.com._
 
 Copyright (c) 2023 Eusebie Siebenberg
