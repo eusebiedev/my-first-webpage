@@ -2,7 +2,8 @@
 
 #### By _**Eusebie Siebenberg**_
 
-#### _This is the first webpage of a student enrolled in software development_
+#### _This is the first webpage of a student enrolled in software development.
+[View Project on Github Pages](https://eusebiedev.github.io/my-first-webpage/)_
 
 ## Technologies Used
 
